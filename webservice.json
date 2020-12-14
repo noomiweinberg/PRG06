@@ -1,0 +1,4 @@
+{
+    "uri" : "http://145.24.222.103:8000/api/tracks",
+    "uitleg" : "Dit is de webservice voor tracks in de Techno muziekindustrie, met info over de tracks zoals de titel, de artiest, het genre, de tijdsduur en wanneer de track is uitgebracht."
+}
